@@ -11,7 +11,7 @@ Time spent: 5 hours spent in total
 The following **required** functionality is completed:
 
 * [x] User can **view a list of todo items**
-* [ ] User can **successfully add and remove items** from the todo list
+* [x] User can **successfully add and remove items** from the todo list
 * [x] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 The following **optional** features are implemented:
@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-I had difficulty getting common-io to import propoerly, My ideo (android studio would not let me sync for whatever reason), issue was solved by restarting IDE.
+I had difficulty getting common-io to import propoerly, My ideo (android studio would not let me sync for whatever reason), issue was solved by restarting IDE. Additionally, this is my first time using Git and Github and it was a little tricky to figure out.
 
 ## License
 
